@@ -5,4 +5,4 @@ print("""Twinkle, twinkle, little star,
       Twinkle, twinkle, little star,
               How I wonder what you are""")
 
-#at first it gave me errors becausse of all the symbols i imply just had to put three commas instead of one to solve the problem
+#at first it gave me errors becausse of all the symbols i simply just had to put three commas instead of one to solve the problem
